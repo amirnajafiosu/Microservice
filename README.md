@@ -1,5 +1,6 @@
 # Microservice
 Microservice Implementation Communication Contract
+
 A. Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call. 
     This example uses Python3: Must use ZeroMQ for socket.
     Step1) (add code) import zmq
@@ -12,6 +13,7 @@ A. Clear instructions for how to REQUEST data from the microservice you implemen
       
 B. Clear instructions for how to RECEIVE data from the microservice you implemented
     Step1) assign recieve code to your variable (add code) <your variable> = socket.recv()
+    
 C. UML sequence diagram showing how requesting and receiving data work. Make it detailed enough that your partner (and your grader) will understand!
 
 [uml sequence diagram](https://user-images.githubusercontent.com/81668533/218878894-4e1458f5-588e-4bf8-97bf-748b460d7fc6.png)
