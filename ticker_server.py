@@ -1,6 +1,7 @@
 import zmq
 import time
 
+# Citation: ZeroMQ beginner tutorial
 
 context = zmq.Context()
 socket = context.socket(zmq.REP)
