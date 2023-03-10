@@ -1,5 +1,7 @@
 import zmq
 
+# Citation: ZeroMQ beginner tutorial
+
 context = zmq.Context()
 
 #  Socket to talk to server
